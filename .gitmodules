@@ -1,0 +1,6 @@
+[submodule "vendor/three"]
+	path = vendor/three
+	url = https://github.com/mrdoob/three.js.git
+[submodule "vendor/pegjs"]
+	path = vendor/pegjs
+	url = https://github.com/dmajda/pegjs.git
